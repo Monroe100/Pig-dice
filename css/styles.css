@@ -16,7 +16,7 @@
         margin-left: -10%;
         margin-right: -10%;
         text-align: center;
-        color: #02F2A2;
+        color: black;
         font-family: serif;
         font-size: 20px;
       }
@@ -24,18 +24,18 @@
       #human{
         background-image: url("../img/human.jpeg");
         background-size: cover;
-        padding: 50px;
+        padding: 100px;
         margin-right: -30px;
 
 }
     #computer{
-      background-image: url("../img/comp.jpeg");
+      background-image: url("../img/comp.jpg");
       background-size: cover;
       padding: 100px;
       margin-right: -30px;
     }
     #human:hover,
     #computer:hover {
-        color:black;
+        color:blue;
         opacity:0.7;
       }
