@@ -9,5 +9,33 @@
   .dice {
     padding: 150px;
     text-align: bottom;
-    color: red;
-    font-size: 20px;
+    color: purple;
+    font-size: 40px;
+  }
+    .play {
+        margin-left: -10%;
+        margin-right: -10%;
+        text-align: center;
+        color: #02F2A2;
+        font-family: serif;
+        font-size: 20px;
+      }
+
+      #human{
+        background-image: url("../img/human.jpeg");
+        background-size: cover;
+        padding: 50px;
+        margin-right: -30px;
+
+}
+    #computer{
+      background-image: url("../img/comp.jpeg");
+      background-size: cover;
+      padding: 100px;
+      margin-right: -30px;
+    }
+    #human:hover,
+    #computer:hover {
+        color:black;
+        opacity:0.7;
+      }
