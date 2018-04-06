@@ -11,7 +11,7 @@
     padding: 150px;
     text-align: bottom;
     color: white;
-    font-size: 20px;
+    font-size: 30px;
   }
     .play {
         margin-left: -10%;
@@ -47,4 +47,9 @@
 }
 .space{
   text-align: right;
+}
+#playing{
+  font-size: 40px;
+  text-align: center;
+  text-decoration: underline;
 }
