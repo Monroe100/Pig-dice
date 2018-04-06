@@ -1,0 +1,13 @@
+
+.header{
+      background-image: url("../img/images.png");
+      background-size: cover;
+      overflow: hidden;
+      margin-left: -10%;
+      margin-right: -10%;
+  }
+  .dice {
+    padding: 150px;
+    text-align: bottom;
+    color: red;
+    font-size: 20px;
