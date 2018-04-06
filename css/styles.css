@@ -54,4 +54,7 @@
   text-align: center;
   text-decoration: underline;
 }
-.
+.jumbotron{
+  background-color: #02423C;
+  color: black;
+}
